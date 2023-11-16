@@ -1,5 +1,6 @@
+#SOUND 1 BASE SOUND
 
-# Define an ambient synth
+# Define ambient synth
 use_synth :dark_ambience
 
 loop do

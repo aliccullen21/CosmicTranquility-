@@ -1,3 +1,4 @@
+#SOUND 3
 
 amp_slowchoir = (ring 0, 0.2,0.4,0.6)
 
