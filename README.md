@@ -1,7 +1,8 @@
 # CosmicTranquility-
-Layering these codes will unlock total mindfulness and powerful concentration 
 
-Each sound works together in harmony, but I suggest playing the codes through in this order 
+In order to experience the ambient music composition, you must download and run the Sonic Pi software and paste each of the respective codes (0,2,4,5,6) onto different buffer pages. Layering these codes will unlock total mindfulness and powerful concentration.  
+
+Each sound works together in harmony, so you may experiment with different combinations, but I suggest playing the codes through in this order: 
 
 1. 0-7 seconds: play buffer 2, 
 2. 7-17 seconds: play buffer 0, 
